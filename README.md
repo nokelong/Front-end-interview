@@ -13,6 +13,8 @@
 
 5、[什么是包装类型](https://github.com/nokelong/Front-end-interview/issues/9)
 
+6、[垃圾回收机制](https://github.com/nokelong/Front-end-interview/issues/10)
+
 
 
 二、网络
