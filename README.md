@@ -19,7 +19,7 @@
 
 二、网络
 
-1、[http中301和302的区别](https://github.com/nokelong/Front-end-interview/issues/5)
+1、[http中301、302、307、308的区别](https://github.com/nokelong/Front-end-interview/issues/5)
 
 2、[options请求](https://github.com/nokelong/Front-end-interview/issues/8)
 
